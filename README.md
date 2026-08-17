@@ -2,7 +2,7 @@
 
 **An AI system that builds a living, evidence-backed model of how you think.**
 
-> 🚧 **Status:** Active development
+> **Status:** Active development
 
 Most knowledge tools remember what you wrote. Cortex is an experiment in understanding **how your thinking evolves**.
 
